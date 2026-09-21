@@ -5,3 +5,5 @@ version 1~.5
 
 have minor bug on firefox.
 Work better on Chrome
+
+Create exclusively with Claude.
